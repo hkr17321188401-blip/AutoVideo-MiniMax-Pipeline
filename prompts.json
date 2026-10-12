@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "prompt": "Cinematic establishing shot of a futuristic neon city at night, rain-slicked streets reflecting holographic billboards, wide angle, 4k ultra-realistic",
+    "duration": 6
+  },
+  {
+    "id": 2,
+    "prompt": "Close-up shot of a cyber biker wearing a glowing helmet, revving a heavy mechanical motorcycle engine, cinematic lighting",
+    "duration": 6
+  },
+  {
+    "id": 3,
+    "prompt": "Fast tracking shot of the motorcycle blasting down the empty cyberpunk highway into the horizon, motion blur, epic ending",
+    "duration": 6
+  }
+]
